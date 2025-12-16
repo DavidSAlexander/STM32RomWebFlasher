@@ -1,5 +1,5 @@
 /********************************************************************************************************
- *  [FILE NAME]   :      <STM32WebFlasherESP8266.h>                                                     *
+ *  [FILE NAME]   :      <STM32RomWebFlasher.h>                                                         *
  *  [AUTHOR]      :      <David S. Alexander>                                                           *
  *  [DATE CREATED]:      <Dec 10, 2025>                                                                 *
  *  [Description] :      <Header file for STM32 Web Flasher for ESP8266>                                *

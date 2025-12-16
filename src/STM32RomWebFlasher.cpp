@@ -1,12 +1,12 @@
 /********************************************************************************************************
- *  [FILE NAME]   :      <STM32WebFlasherESP8266.cpp>                                                   *
+ *  [FILE NAME]   :      <STM32RomWebFlasher.cpp>                                                       *
  *  [AUTHOR]      :      <David S. Alexander>                                                           *
  *  [DATE CREATED]:      <Dec 10, 2025>                                                                 *
  *  [Description] :      <Source file for STM32 Web Flasher for ESP8266>                                *
  ********************************************************************************************************/
 
 #ifdef ESP8266
-#include "STM32WebFlasherESP8266.h"
+#include "STM32RomWebFlasher.h"
 
 STM32WebFlasherESP8266::STM32WebFlasherESP8266(HardwareSerial& serial, const STM32WebFlasherConfig& cfg)
 : _serial(&serial),

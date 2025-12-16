@@ -5,9 +5,9 @@
  *  [Description] :      <Example code for ESP8266 to run the STM32 ROM Bootloader>					            *
  ********************************************************************************************************/
 
-#include <STM32WebFlasherESP8266.h>
+#include <STM32RomWebFlasher.h>
 
-static const char* WIFI_SSID = "Bedo Planet";
+static const char* WIFI_SSID = "";
 static const char* WIFI_PASS = "";
 static const char* MDNS_HOST = "stm32flasher";
 

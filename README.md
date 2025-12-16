@@ -70,7 +70,7 @@ Create a sketch like this:
 
 ```cpp
 #include <Arduino.h>
-#include <STM32WebFlasherESP8266.h>
+#include <STM32RomWebFlasher.h>
 
 static const char* WIFI_SSID = "YOUR_SSID";
 static const char* WIFI_PASS = "YOUR_PASS";
