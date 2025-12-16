@@ -1,6 +1,6 @@
 {
   "name": "STM32RomWebFlasher",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "keywords": "communication, stm32, bootloader, uart, esp8266, wifi, webserver, fota, littlefs, mdns, arduino",
   "description": "ESP8266-based web flasher for the STM32 ROM UART bootloader.",
   "repository": {
