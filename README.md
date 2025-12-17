@@ -110,11 +110,25 @@ void loop()
   Flasher.loop();
 }
 ```
-
 ## Open the web UI
 
 - Via IP: `http://<esp-ip>/`
 - Via mDNS: `http://stm32flasher.local/`
+
+---
+
+### 🌐 Web Interface Screenshots
+
+| Step | Description | Screenshot |
+|-----:|-------------|------------|
+| 1 | Connection Page | ![Home](https://raw.githubusercontent.com/DavidSAlexander/STM32RomWebFlasher/main/resources/images/1.PNG) |
+| 2 | Login | ![Login](https://raw.githubusercontent.com/DavidSAlexander/STM32RomWebFlasher/main/resources/images/2.png) |
+| 3 | Main Control Panel | ![Main Panel](https://raw.githubusercontent.com/DavidSAlexander/STM32RomWebFlasher/main/resources/images/3.PNG) |
+| 4 | Connect / Detect Target | ![Connect](https://raw.githubusercontent.com/DavidSAlexander/STM32RomWebFlasher/main/resources/images/4.PNG) |
+| 5 | Device Information | ![Read Data](https://raw.githubusercontent.com/DavidSAlexander/STM32RomWebFlasher/main/resources/images/5.PNG) |
+| 6 | Logs / Error Handling | ![Device Info](https://raw.githubusercontent.com/DavidSAlexander/STM32RomWebFlasher/main/resources/images/6.PNG) |
+| 7 | Firmware Upload | ![Upload & Logs](https://raw.githubusercontent.com/DavidSAlexander/STM32RomWebFlasher/main/resources/images/7.PNG) |
+
 
 ---
 
