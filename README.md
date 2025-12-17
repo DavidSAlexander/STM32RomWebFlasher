@@ -51,11 +51,12 @@ Put the library folder here (Windows):
 C:\Users<you>\Documents\Arduino\libraries\STM32RomWebFlasher\
 
 Inside it you should have:
+```text
 STM32RomWebFlasher/
-library.properties
-src/
-examples/
-
+├─ library.properties
+├─ examples/
+└─ src/
+```
 
 ### Install methods
 - **ZIP**: Sketch → Include Library → Add .ZIP Library… (zip must contain the library root)
@@ -69,7 +70,6 @@ examples/
 Create a sketch like this:
 
 ```cpp
-#include <Arduino.h>
 #include <STM32RomWebFlasher.h>
 
 static const char* WIFI_SSID = "YOUR_SSID";
