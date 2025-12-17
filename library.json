@@ -14,10 +14,5 @@
     }
   ],
   "frameworks": "arduino",
-  "platforms": "espressif8266",
-  "dependencies": [
-    "ESP8266WebServer",
-    "ESP8266WiFi",
-    "LittleFS"
-  ]
+  "platforms": "espressif8266"
 }
